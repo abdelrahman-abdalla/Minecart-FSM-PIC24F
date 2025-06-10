@@ -18,7 +18,7 @@ Built as part of an embedded systems course at Penn State. Demonstrates low-leve
 
 ## Demo
 
-[📽️ Watch the Minecart FSM Demo](https://drive.google.com/file/d/1uJpRAgQi2kMHxkLGHbJJo2EnYVUuMOHB/view?usp=share_link)
+[📽️ Watch the Minecart FSM Demo] (https://drive.google.com/file/d/1uJpRAgQi2kMHxkLGHbJJo2EnYVUuMOHB/view?usp=share_link)
 
 
 ## Author
