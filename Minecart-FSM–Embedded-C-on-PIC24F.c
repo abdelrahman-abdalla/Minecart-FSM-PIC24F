@@ -1,7 +1,7 @@
 /*
  * File:   Exercise_1_main.c
  * Author: Abdelrahman Abdalla
- *
+ * Copyright (c) 2025 Abdelrahman Abdalla
  * 
  */
 
