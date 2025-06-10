@@ -22,4 +22,7 @@ Built as part of an embedded systems course at Penn State. Demonstrates low-leve
 
 
 ## Author
-Abdelrahman Abdalla – [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdalla-)
+Abdelrahman Abdalla – [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdalla-)  
+
+---
+MIT License © 2025 Abdelrahman Abdalla
