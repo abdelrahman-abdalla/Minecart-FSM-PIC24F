@@ -16,5 +16,10 @@ This project simulates a minecart control system using a finite state machine (F
 ## Context
 Built as part of an embedded systems course at Penn State. Demonstrates low-level control, timing logic, and real-time FSM operation on microcontroller hardware.
 
+## Demo
+
+[📽️ Watch the Minecart FSM Demo](https://drive.google.com/file/d/1uJpRAgQi2kMHxkLGHbJJo2EnYVUuMOHB/view?usp=share_link)
+
+
 ## Author
 Abdelrahman Abdalla – [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdalla)
